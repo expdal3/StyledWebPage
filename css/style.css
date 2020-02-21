@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin-top: 0;
+
+}
+
+.topDiv {
+    background-color: #63b7af;
+    height:200px;
+    width: 200px;
+    border: solid 20px;
+    padding: 10px;
+}
+
+.midDiv {
+    background-color: #35495e;
+    height: 200px;
+    width: 200px;
+}
+
+.bottDiv {
+    background-color: #ee8572;
+    height: 200px;
+    width: 200px;
+
+}
